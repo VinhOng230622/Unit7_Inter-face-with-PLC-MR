@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPUN_1", "GPUN_1\GPUN_1.csproj", "{AAA64E1C-676E-4CCF-B1BE-1C79ACD9B6A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA64E1C-676E-4CCF-B1BE-1C79ACD9B6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA64E1C-676E-4CCF-B1BE-1C79ACD9B6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA64E1C-676E-4CCF-B1BE-1C79ACD9B6A6}.Debug|x64.ActiveCfg = Debug|x64
+		{AAA64E1C-676E-4CCF-B1BE-1C79ACD9B6A6}.Debug|x64.Build.0 = Debug|x64
+		{AAA64E1C-676E-4CCF-B1BE-1C79ACD9B6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA64E1C-676E-4CCF-B1BE-1C79ACD9B6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA64E1C-676E-4CCF-B1BE-1C79ACD9B6A6}.Release|x64.ActiveCfg = Release|x64
+		{AAA64E1C-676E-4CCF-B1BE-1C79ACD9B6A6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E554876-6681-435C-9C61-33C74E658E5A}
+	EndGlobalSection
+EndGlobal

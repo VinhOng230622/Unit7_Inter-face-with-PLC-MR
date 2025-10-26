@@ -1,0 +1,16 @@
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\bin\x64\Release\GPUN_1.exe.config
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\bin\x64\Release\GPUN_1.exe
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\bin\x64\Release\GPUN_1.pdb
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\bin\x64\Release\NModbus.dll
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\bin\x64\Release\NModbus4.dll
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\bin\x64\Release\NModbus.xml
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\bin\x64\Release\NModbus4.xml
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\obj\x64\Release\GPUN_1.csproj.AssemblyReference.cache
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\obj\x64\Release\GPUN_1.Form1.resources
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\obj\x64\Release\GPUN_1.Properties.Resources.resources
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\obj\x64\Release\GPUN_1.csproj.GenerateResource.cache
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\obj\x64\Release\GPUN_1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\obj\x64\Release\GPUN_1.csproj.Up2Date
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\obj\x64\Release\GPUN_1.exe
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\obj\x64\Release\GPUN_1.pdb
+C:\Users\Acer\VINCI\PROJECT_1\C#\Unit7_Interface with PLC-MR\GPUN_1\GPUN_1\obj\x64\Release\GPUN_1.exe.config
