@@ -20,9 +20,9 @@ namespace GPUN_1
 
         public bool IsConnected => serialPort != null && serialPort.IsOpen;
 
-        public void Connect(string portName, int baudrate)
+        public void Connect(string portName, int baudrate, Parity parity,int DataBits, StopBits stopBits)
         {
-            serialPort = new SerialPort(portName, baudrate, Parity.None, 8, StopBits.One);
+            serialPort = new SerialPort(portName, baudrate, parity, DataBits, stopBits);
             serialPort.Open();
             master = ModbusSerialMaster.CreateRtu(serialPort);
         }
@@ -35,9 +35,7 @@ namespace GPUN_1
 
         public void WriteCoil(byte slaveID, ushort coilAddress, bool value)
         {
-            if (!IsConnected)
-                throw new Exception("Chưa kết nối PLC!");
-            master.WriteSingleCoil(slaveID, coilAddress, value);
+             master.WriteSingleCoil(slaveID, coilAddress, value);
         }
 
         public bool[] ReadCoils(byte slaveID, ushort startAddress, ushort num)
